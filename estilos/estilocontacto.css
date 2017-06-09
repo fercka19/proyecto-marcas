@@ -1,0 +1,23 @@
+	@font-face {
+    			font-family: "LaBelleAurore";
+   				src: url(fonts/LaBelleAurore.ttf) format("truetype");
+			}
+	body{
+		background-color: #6E6E6E;
+	}
+		.ancho{
+			margin-top: 4%;
+			font-size: 160%;
+			font-family: LaBelleAurore;
+			text-align: center;
+		}
+		#correo{
+			font-size: 200%;
+			font-family: LaBelleAurore;
+			text-align: center;
+		}
+		#gracias{
+			font-size: 350%;
+			font-family: LaBelleAurore;
+			text-align: center;
+		}

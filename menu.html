@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilos/estilomenu.css">
+</head>
+<body>
+<p><b>Lugares y actividades</b></p>
+<img src="imagenesproyecto/índice.jpg" onmouseover="funcion03(0)" onmouseout="muestravacio()">
+<img src="imagenesproyecto/castillo.jpg" onmouseover="funcion03(1)" onmouseout="muestravacio()">
+<img src="imagenesproyecto/caballo.jpg" onmouseover="funcion03(2)" onmouseout="muestravacio()">
+<center><b id="demo"></b></center>
+<img src="imagenesproyecto/espectaculos.jpg" onmouseover="funcion03(3)" onmouseout="muestravacio()">
+<img src="imagenesproyecto/lugar.jpg" onmouseover="funcion03(4)" onmouseout="muestravacio()">
+<img src="imagenesproyecto/fiesta.jpg"  onmouseover="funcion03(5)" onmouseout="muestravacio()">
+
+<script type="text/javascript">
+function muestravacio(){
+	document.getElementById("demo").innerHTML="";
+}
+function funcion03(n) {
+var colores = ["Caterins","Actividades infantiles","Rutas a caballo","Espectaculos","Salas de fiestas","Fiestas infantiles"];
+document.getElementById("demo").innerHTML = colores[n];
+}
+</script>
+</html>

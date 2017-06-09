@@ -1,0 +1,121 @@
+@font-face {
+    			font-family: "LaBelleAurore";
+   				src: url(fonts/LaBelleAurore.ttf) format("truetype");
+			}
+			a{
+				font-family: LaBelleAurore;
+				color: #2A0A0A;
+			}
+			a:hover{
+				background-color:#A4A4A4; 
+				color:#2A0A0A;
+			}
+			body{
+				background-color: #1C1C1C;
+			}
+			header{
+				width: auto;
+				height: 100px;
+				padding :1px;
+				float;
+			}	
+			#gram{
+				margin-top:1%;
+				width: 2%;
+				margin-right: 10%;
+				float: right;
+			}
+			.tam{
+				margin-top:1%;
+				width: 2%;
+				float: right;
+			}
+			.dos{
+				margin-top: -4.7%;
+				clear: right;
+				width: 7.6%;
+				float: left;
+
+			}
+			h1{
+				font-family: LaBelleAurore;
+
+				color:white;
+				margin-top: -3%;
+				float: left;
+			}
+			h6{
+				font-family: LaBelleAurore;
+				color: white;
+				margin-top: 0.5%;
+				float: left;
+				margin-left: -7.5%;
+			}
+			h2{
+				font-family: LaBelleAurore;
+				color: white;
+				margin-top: -3.5%;
+				margin-left: 52%;
+				float: center;
+			}
+			h4{
+				font-family: LaBelleAurore;
+				color: white;
+			}
+			#movil{
+				font-family: LaBelleAurore;
+				
+				margin-left: 65%
+			}
+			#fijo{
+				font-family: LaBelleAurore;
+				margin-top: -2.8%;
+				margin-left: 75%;
+			}
+			
+			.diseño{
+				color: white;
+				padding:3em;
+				
+			}
+			nav{
+				background-color: #000000;
+			}
+			section{
+
+				float;
+				background-color: #6E6E6E;
+			}
+			.love{
+				border-radius: 5% 5% 5% 5%;
+				margin-left: 6%;
+				width: 25%;
+				
+			}
+			
+			.love3{
+				border-radius: 5% 5% 5% 5%;
+				width: 25% ;
+			margin-left: 6%;
+				float:center;
+			}
+
+			footer{
+				font-family: LaBelleAurore;
+				color: white;
+				margin-top:0%;
+				background-color:  #000000;
+			}
+			p{
+				color: white;
+				font-family: LaBelleAurore;
+				margin-right: 12%;
+				margin-left:12%; 
+			}
+			#demo{
+
+				font-size: 160%;
+				font-family: LaBelleAurore;
+				color: black;
+				margin-top: -1.3%;
+			}

@@ -1,0 +1,112 @@
+@font-face {
+    			font-family: "LaBelleAurore";
+   				src: url(fonts/LaBelleAurore.ttf) format("truetype");
+		}
+		body{
+				background-color: #1C1C1C;
+		}
+		a{
+				font-family: LaBelleAurore;
+				color: #2A0A0A;
+		}
+		a:hover{
+				background-color:#A4A4A4; 
+				color:#2A0A0A;
+		}
+		#titulo{
+				font-family: LaBelleAurore;
+				float: center;
+				color: white;
+				font-size: 250%;
+				margin-left: 35%;
+		}
+		i{
+			font-family: LaBelleAurore;
+		}
+		p{		
+				
+				margin-left: 3%;
+				font-family: LaBelleAurore;
+				margin-right: 35%;
+				font-size: 110%;
+		}
+		.tex{
+				font-size: 160%;
+		}
+		header{
+				width: auto;
+				height: 100px;
+				padding :1px;
+				float;
+		}
+		.dos{
+				margin-top: -0.959%;
+				clear: right;
+				width: 7.6%;
+				float: left;
+
+			}
+		h1{
+				font-family: LaBelleAurore;
+
+				color:white;
+				margin-top: 0.75%;
+				float: left;
+		}
+		h6{
+				font-family: LaBelleAurore;
+				color: white;
+				margin-top: 4.2%;
+				float: left;
+				margin-left: -7.5%;
+		}
+		.diseño{
+				color: white;
+				padding:3em;
+				
+		}
+		nav{
+				background-color: #000000;
+		}
+		section{
+				margin-top: -1%;
+				float;
+				background-color: #6E6E6E;
+		}
+		footer{
+				font-family: LaBelleAurore;
+				color: white;
+				margin-top:0%;
+				background-color:  #000000;
+		}
+		#con{
+			margin-top: -26.5%;
+			margin-right:11%;
+			font-family: LaBelleAurore;
+			float: right;
+			font-size: 140%;
+		}
+		#tab{
+			margin-right: 6%;
+			margin-top: -25%;
+			font-family: LaBelleAurore;
+			float: right;
+		}
+		#cap{
+			margin-right: 14.5%;
+			margin-top: -16%;
+			font-family: LaBelleAurore;
+			float: right;
+		}
+		#zap{
+			margin-top: -6%;
+			margin-right: 4%;
+			font-family: LaBelleAurore;
+			float: right;
+		}
+		#envia{
+			float: right;
+			margin-top: -1.5%;
+			margin-right: 10%;
+			border-radius: 3% 3% 3% 3%;
+		}
